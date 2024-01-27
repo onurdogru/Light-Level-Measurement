@@ -1,0 +1,5 @@
+DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v23.1, Version=23.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a
+OMRON.Compolet.DataAccess.DataAccessCompolet, DataAccessCompolet, Version=1.8.0.0, Culture=neutral, PublicKeyToken=f3505d5782c23c5d
+OMRON.Compolet.CIP.NXCompolet, CIPCompolet, Version=1.7.1.0, Culture=neutral, PublicKeyToken=f3505d5782c23c5d
+OMRON.Compolet.CIP.NXCompolet, CIPCompolet, Version=1.8.0.0, Culture=neutral, PublicKeyToken=f3505d5782c23c5d
+DevExpress.XtraDataLayout.DataLayoutControl, DevExpress.XtraLayout.v23.1, Version=23.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a
